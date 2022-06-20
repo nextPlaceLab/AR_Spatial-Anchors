@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudAnchorServer", "CloudAnchorServer.csproj", "{8E9337B1-F970-4403-9419-B819A6D3BADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E9337B1-F970-4403-9419-B819A6D3BADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9337B1-F970-4403-9419-B819A6D3BADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9337B1-F970-4403-9419-B819A6D3BADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9337B1-F970-4403-9419-B819A6D3BADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3146451F-93D4-4B35-812A-2C922BC86B31}
+	EndGlobalSection
+EndGlobal
